@@ -1,0 +1,3 @@
+create a git repo and clone ti in local
+creadte code.py and add code to it
+go to git and 
